@@ -1,4 +1,3 @@
-import React from "react";
 import HeroSection from "./sections/hero/Hero";
 import Header from "./components/appComponents/Header";
 import herobg from "@/assets/hero-bg.png";

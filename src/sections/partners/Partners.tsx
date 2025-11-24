@@ -1,4 +1,3 @@
-import React from "react";
 import partner1 from "@/assets/slider/slider-7.png";
 import partner2 from "@/assets/logos/partner-2.png";
 import partner3 from "@/assets/logos/partner-3.png";

@@ -1,8 +1,6 @@
 import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
 import {
   Sheet,
-  SheetClose,
   SheetContent,
   SheetFooter,
   SheetHeader,
@@ -10,7 +8,6 @@ import {
 } from "@/components/ui/sheet";
 import { MenuIcon } from "lucide-react";
 import logoImage from "@/assets/logos/logo.png";
-import type { Attributes } from "react";
 
 export default function Menu({
   className,

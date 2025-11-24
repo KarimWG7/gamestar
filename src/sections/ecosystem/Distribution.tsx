@@ -1,4 +1,3 @@
-import React from "react";
 import twentyImage from "@/assets/twenty.png";
 import eightyImage from "@/assets/eighty.png";
 import tenImage from "@/assets/ten.png";

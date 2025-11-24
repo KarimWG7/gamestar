@@ -1,5 +1,4 @@
-import { Check, CornerLeftUpIcon } from "lucide-react";
-import React from "react";
+import { Check } from "lucide-react";
 
 const Incubation = () => {
   return (

@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import { useRef } from "react";
 import logoImage from "@/assets/logos/logo.png";
 import { Button } from "../ui/button";
 import { cn } from "@/lib/utils";

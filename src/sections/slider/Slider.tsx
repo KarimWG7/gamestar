@@ -1,4 +1,4 @@
-import React, { useRef, type ReactElement } from "react";
+import { useRef } from "react";
 import slider_1 from "@/assets/slider/slider-1.png";
 import slider_2 from "@/assets/slider/slider-2.png";
 import slider_3 from "@/assets/slider/slider-3.png";

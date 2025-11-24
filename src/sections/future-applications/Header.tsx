@@ -2,7 +2,6 @@ import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
-import React from "react";
 
 const ApplicationFutureHeader = ({ className }: { className: string }) => {
   useGSAP(() => {

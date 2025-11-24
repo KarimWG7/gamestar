@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import { useRef } from "react";
 import Header from "./Header";
 import GSG from "./GSG";
 import Distribution from "./Distribution";

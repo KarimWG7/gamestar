@@ -1,4 +1,3 @@
-import React from "react";
 import type { Card } from "./cards";
 import { cn } from "@/lib/utils";
 

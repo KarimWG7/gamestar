@@ -1,4 +1,3 @@
-import React from "react";
 import footerImage from "@/assets/footer.png";
 import logo from "@/assets/logos/logo.png";
 import { Button } from "@/components/ui/button";
